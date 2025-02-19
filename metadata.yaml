@@ -1,0 +1,38 @@
+_repo: The-heiress-of-McGregor-b-or-Living-for-self_75338
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Guernsey, Lucy Ellen
+    aliases:
+    - Guernsey, Lucy E. (Lucy Ellen)
+    - L. E. G. (Lucy Ellen Guernsey)
+    - G., L. E. (Lucy Ellen Guernsey)
+    - LEG (Lucy Ellen Guernsey)
+    birthdate: 1826
+    deathdate: 1899
+    gutenberg_agent_id: '56141'
+    url: http://www.gutenberg.org/2009/agents/56141
+    wikipedia: https://en.wikipedia.org/wiki/Lucy_Ellen_Guernsey
+description: ''
+gutenberg_issued: '2025-02-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75338'
+language: en
+pgterms:marc905: 20241124142042guernsey
+pgterms:marc906: '1875'
+pgterms:marc907: US
+publication_note: '  $aUnited States :$bAmerican Sunday-School Union, $c1875.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Girls -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Sunday school literature'
+- !lcsh 'Selfishness -- Juvenile fiction'
+- !lcsh 'New England -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: 'The heiress of McGregor : $b or, Living for self'
+url: http://www.gutenberg.org/ebooks/75338
